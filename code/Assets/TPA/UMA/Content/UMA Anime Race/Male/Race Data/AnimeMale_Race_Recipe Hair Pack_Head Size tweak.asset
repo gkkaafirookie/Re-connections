@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9448878e2e40f1a4c9f8fd2b56832b13, type: 3}
+  m_Name: AnimeMale_Race_Recipe Hair Pack_Head Size tweak
+  m_EditorClassIdentifier: 
+  label: 
+  resourcesOnly: 0
+  recipeType: Standard
+  DisplayValue: 
+  compatibleRaces: []
+  wardrobeRecipeThumbs: []
+  wardrobeSlot: None
+  Hides: []
+  HideTags: []
+  suppressWardrobeSlots: []
+  activeWardrobeSet: []
+  MeshHideAssets: []
+  OverrideDNA:
+    PreloadValues: []
+  recipeString: '{"version":3,"packedSlotDataList":[],"slotsV2":[],"slotsV3":[{"id":"M_Anime_Feet","scale":100,"copyIdx":-1,"overlays":[{"id":"M_Anime_Body_Overlay","colorIdx":0,"rect":[0.0,0.0,0.0,0.0],"isTransformed":false,"scale":{"x":0.0,"y":0.0,"z":0.0},"rotation":0.0}],"Tags":[],"Races":[]},{"id":"M_Anime_Hands","scale":100,"copyIdx":0,"overlays":[],"Tags":[],"Races":[]},{"id":"M_Anime_Legs","scale":100,"copyIdx":0,"overlays":[],"Tags":[],"Races":[]},{"id":"M_Anime_Torso","scale":100,"copyIdx":0,"overlays":[],"Tags":[],"Races":[]},{"id":"M_Anime_Teeth","scale":100,"copyIdx":-1,"overlays":[{"id":"M_Anime_Mouth_Overlay","colorIdx":3,"rect":[0.0,0.0,0.0,0.0],"isTransformed":false,"scale":{"x":0.0,"y":0.0,"z":0.0},"rotation":0.0}],"Tags":[],"Races":[]},{"id":"M_Anime_Tongue","scale":100,"copyIdx":4,"overlays":[],"Tags":[],"Races":[]},{"id":"M_Anime_Hairpack_Eyes","scale":100,"copyIdx":-1,"overlays":[{"id":"M_Anime_Eyes_Overlay","colorIdx":3,"rect":[0.0,0.0,0.0,0.0],"isTransformed":false,"scale":{"x":0.0,"y":0.0,"z":0.0},"rotation":0.0},{"id":"M_Anime_Eyes_Adjust
+    Overlay","colorIdx":2,"rect":[0.0,0.0,0.0,0.0],"isTransformed":false,"scale":{"x":0.0,"y":0.0,"z":0.0},"rotation":0.0}],"Tags":[],"Races":[]},{"id":"","scale":1,"copyIdx":-1,"overlays":[],"Tags":[],"Races":[]},{"id":"M_Anime_Hairpack_Mouth","scale":100,"copyIdx":4,"overlays":[],"Tags":[],"Races":[]},{"id":"M_Anime_Hairpack_Eyebrows","scale":100,"copyIdx":-1,"overlays":[{"id":"M_Anime_Eyebrows_Overlay","colorIdx":4,"rect":[0.0,0.0,0.0,0.0],"isTransformed":false,"scale":{"x":1.0,"y":1.0,"z":1.0},"rotation":0.0}],"Tags":[],"Races":[]},{"id":"M_Anime_Hairpack_Eyelashes","scale":100,"copyIdx":9,"overlays":[],"Tags":[],"Races":[]},{"id":"","scale":1,"copyIdx":-1,"overlays":[],"Tags":[],"Races":[]},{"id":"","scale":1,"copyIdx":-1,"overlays":[],"Tags":[],"Races":[]},{"id":"","scale":1,"copyIdx":-1,"overlays":[],"Tags":[],"Races":[]},{"id":"M_Anime_Hairpack_Head","scale":100,"copyIdx":-1,"overlays":[{"id":"M_Anime_Head_Overlay","colorIdx":3,"rect":[0.0,0.0,0.0,0.0],"isTransformed":false,"scale":{"x":1.0,"y":1.0,"z":1.0},"rotation":0.0}],"Tags":[],"Races":[]}],"colors":[],"fColors":[{"name":"Skin","colors":[255,255,255,255,0,0,0,0,255,255,255,255,0,0,0,0,255,255,255,255,0,0,0,54],"ShaderParms":[],"alwaysUpdate":false},{"name":"Hair","colors":[185,147,127,255,0,0,0,0,255,255,255,255,0,0,0,0,255,255,255,255,0,0,0,0],"ShaderParms":[],"alwaysUpdate":false},{"name":"Eyes","colors":[246,248,255,255,0,0,0,0,255,255,255,255,0,0,0,0,255,255,255,255,0,0,0,0],"ShaderParms":[],"alwaysUpdate":false},{"name":"-","colors":[255,255,255,255,0,0,0,0],"ShaderParms":[],"alwaysUpdate":false},{"name":"-","colors":[45,28,19,255,0,0,0,0,255,255,255,255,0,0,0,0,255,255,255,255,0,0,0,0],"ShaderParms":[],"alwaysUpdate":false}],"sharedColorCount":3,"race":"Anime
+    Male Hair Pack","packedDna":[{"dnaType":"DynamicUMADna","dnaTypeHash":815443803,"packedDna":"{\"bDnaAsset\":{\"instanceID\":21434},\"bDnaAssetName\":\"HumanMaleDynamicDnaAsset\",\"bDnaSettings\":[{\"name\":\"skinGreenness\",\"value\":128},{\"name\":\"skinBlueness\",\"value\":128},{\"name\":\"skinRedness\",\"value\":128},{\"name\":\"height\",\"value\":128},{\"name\":\"headSize\",\"value\":158},{\"name\":\"headWidth\",\"value\":128},{\"name\":\"neckThickness\",\"value\":33},{\"name\":\"armLength\",\"value\":128},{\"name\":\"forearmLength\",\"value\":132},{\"name\":\"armWidth\",\"value\":92},{\"name\":\"forearmWidth\",\"value\":79},{\"name\":\"handsSize\",\"value\":124},{\"name\":\"feetSize\",\"value\":112},{\"name\":\"legSeparation\",\"value\":140},{\"name\":\"upperMuscle\",\"value\":93},{\"name\":\"lowerMuscle\",\"value\":91},{\"name\":\"upperWeight\",\"value\":127},{\"name\":\"lowerWeight\",\"value\":61},{\"name\":\"legsSize\",\"value\":133},{\"name\":\"belly\",\"value\":50},{\"name\":\"waist\",\"value\":54},{\"name\":\"gluteusSize\",\"value\":83},{\"name\":\"earsSize\",\"value\":128},{\"name\":\"earsPosition\",\"value\":128},{\"name\":\"earsRotation\",\"value\":128},{\"name\":\"noseSize\",\"value\":30},{\"name\":\"noseCurve\",\"value\":0},{\"name\":\"noseWidth\",\"value\":50},{\"name\":\"noseInclination\",\"value\":180},{\"name\":\"nosePosition\",\"value\":114},{\"name\":\"nosePronounced\",\"value\":71},{\"name\":\"noseFlatten\",\"value\":52},{\"name\":\"chinSize\",\"value\":128},{\"name\":\"chinPronounced\",\"value\":128},{\"name\":\"chinPosition\",\"value\":128},{\"name\":\"mandibleSize\",\"value\":128},{\"name\":\"jawsSize\",\"value\":128},{\"name\":\"jawsPosition\",\"value\":128},{\"name\":\"cheekSize\",\"value\":128},{\"name\":\"cheekPosition\",\"value\":128},{\"name\":\"lowCheekPronounced\",\"value\":128},{\"name\":\"lowCheekPosition\",\"value\":128},{\"name\":\"foreheadSize\",\"value\":46},{\"name\":\"foreheadPosition\",\"value\":128},{\"name\":\"lipsSize\",\"value\":128},{\"name\":\"mouthSize\",\"value\":24},{\"name\":\"eyeRotation\",\"value\":128},{\"name\":\"eyeSize\",\"value\":128},{\"name\":\"breastSize\",\"value\":61},{\"name\":\"eyeSpacing\",\"value\":128}]}"}],"wardrobeSet":[],"packedRecipeType":"Standard"}'

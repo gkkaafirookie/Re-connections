@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c86f7fb3ea5bac04a857e5f4a0b30077, type: 3}
+  m_Name: F_Anime_Clothing 06_Legs_HMA 2
+  m_EditorClassIdentifier: 
+  _asset: {fileID: 0}
+  _assetSlotName: F_Anime_Legs
+  _serializedFlags:
+  - flags: ffffffffffffffffff03ff00fc030000000000000000fcffffffff3f02869f0700000000000000007c0000000000feffffffffffffffffffffffffbf1f007810c0ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff1f000000f8ffffffffffffffffffffffffffff3f000100f00180fffffffffffffffffffffffffffffffffff8ff
+    Count: 1184
